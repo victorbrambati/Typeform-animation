@@ -1,44 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+     Typeform animation clone
+</h1>
 
-## Available Scripts
+<p align="center">
+<a href="https://www.typescriptlang.org">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorbrambati/Dropbox-Nav-clone.svg">
+</a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorbrambati/Dropbox-Nav-clone.svg">
+  <a href="https://github.com/victorbrambati/Dropbox-Nav-clone">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorbrambati/Dropbox-Nav-clone.svg">
+  </a>
 
-In the project directory, you can run:
+  <a href="https://github.com/victorbrambati/Twitter-UI-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorbrambati/Dropbox-Nav-clone">
+  </a>
 
-### `yarn start`
+  <img alt="GitHub" src="https://img.shields.io/github/license/victorbrambati/Dropbox-Nav-clone">
+</p>
+<h4 align="center">scroll the page.</h4>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![App Screenshot]()
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/victorbrambati/image/upload/v1601407017/Group_1_vks4ps.png">
+  </a>
+</p>
 
-### `yarn test`
+## :rocket: Technologies
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project is for study purposes with the following technologies:
 
-### `yarn build`
+- [ReactJS](https://reactjs.org/)
+- [Typescript][ts]
+- [styled-components](https://www.styled-components.com/)
+- [VS Code][vscode] and [ESLint][vceslint]
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Made with ♥ by Victor Brambati :wave: [Get in touch!](https://twitter.com/victor_brambati)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[ts]: https://www.typescriptlang.org
+[vscode]: https://code.visualstudio.com/
+[yarn]: https://yarnpkg.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
