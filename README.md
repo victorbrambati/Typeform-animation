@@ -19,7 +19,7 @@
 </p>
 <h4 align="center">scroll the page.</h4>
 
-![App Screenshot](https://res.cloudinary.com/victorbrambati/image/upload/v1601925817/ezgif-4-df935cec9d0d_arwsxx.gif)
+![App Screenshot](https://res.cloudinary.com/victorbrambati/image/upload/v1601927949/ghh_kdfto9.gif)
 
 <p align="center">
   <a href="https://typeform-animation-clone.vercel.app/" target="_blank">
