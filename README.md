@@ -4,26 +4,26 @@
 
 <p align="center">
 <a href="https://www.typescriptlang.org">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorbrambati/Dropbox-Nav-clone.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/victorbrambati/Typeform-animation-clone.svg">
 </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorbrambati/Dropbox-Nav-clone.svg">
-  <a href="https://github.com/victorbrambati/Dropbox-Nav-clone">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorbrambati/Dropbox-Nav-clone.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/victorbrambati/Typeform-animation-clone.svg">
+  <a href="https://github.com/victorbrambati/Typeform-animation-clone">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorbrambati/Typeform-animation-clone.svg">
   </a>
 
-  <a href="https://github.com/victorbrambati/Twitter-UI-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorbrambati/Dropbox-Nav-clone">
+  <a href="https://github.com/victorbrambati/Typeform-animation-clone/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/victorbrambati/Typeform-animation-clone">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/victorbrambati/Dropbox-Nav-clone">
+  <img alt="GitHub" src="https://img.shields.io/github/license/victorbrambati/Typeform-animation-clone">
 </p>
 <h4 align="center">scroll the page.</h4>
 
-![App Screenshot]()
+![App Screenshot](https://res.cloudinary.com/victorbrambati/image/upload/v1601925817/ezgif-4-df935cec9d0d_arwsxx.gif)
 
 <p align="center">
-  <a href="" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/victorbrambati/image/upload/v1601407017/Group_1_vks4ps.png">
+  <a href="https://typeform-animation-clone.vercel.app/" target="_blank">
+    <img alt="Demo on Vercel" src="https://res.cloudinary.com/victorbrambati/image/upload/v1601407017/Group_1_vks4ps.png">
   </a>
 </p>
 
@@ -34,6 +34,7 @@ This project is for study purposes with the following technologies:
 - [ReactJS](https://reactjs.org/)
 - [Typescript][ts]
 - [styled-components](https://www.styled-components.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 - [VS Code][vscode] and [ESLint][vceslint]
 
 ---
